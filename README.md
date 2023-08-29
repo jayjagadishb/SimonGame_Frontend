@@ -33,7 +33,7 @@ Simon Game is a test of your memory and pattern recognition skills. The game con
 - JavaScript
 
 ## Credits
-This project is created by Jay Jagadish Behera. Feel free to reach out to me at [jayjagadishb@email.com] for any questions or feedback!
+This project is created by Jay Jagadish Behera. Feel free to reach out to me at [jayjagadishb@gmail.com] for any questions or feedback!
 
 Have fun playing the Simon Game and challenge yourself to beat your high score!
 
